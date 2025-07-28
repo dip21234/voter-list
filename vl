@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>bv‡g©vY m¤úvw`Z</title>
+  <style>
+    @font-face {
+      font-family: 'SutonnyMJ';
+      src: url('SutonnyMJ.ttf') format('truetype'); /* ফন্ট ফাইল একই ফোল্ডারে থাকতে হবে */
+    }
+    body {
+      font-family: 'SutonnyMJ', sans-serif;
+      background-color: #f9f9f9;
+      padding: 20px;
+      text-align: center;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      font-size: 20px;
+    }
+    th {
+      background-color: #007BFF;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #f2f2f2;
+    }
+    h1 {
+      color: #333;
+      font-size: 30px;
+    }
+  </style>
+</head>
+<body>
+  <h1>bv‡g©vY m¤úvw`Z</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>e¨e¯’v</th>
+        <th>bvg</th>
+        <th>UªvšÍ</th>
+        <th>gšÍe¨</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>1</td><td>ivwKeyj Bmjvg</td><td>221311</td><td>01879114230</td></tr>
+      <tr><td>2</td><td>Zvmwjgv Av³vi</td><td>148130</td><td>01318418029</td></tr>
+      <tr><td>3</td><td>AvKvk mi`vi</td><td>148146</td><td>01878400433</td></tr>
+      <tr><td>4</td><td>kvIb †fŠwgK</td><td>221192</td><td>01823931174</td></tr>
+      <tr><td>5</td><td>bvRgyj Avn‡g`</td><td>221460</td><td>01781645805</td></tr>
+      <tr><td>6</td><td>‡gvt Avwmd wgqv</td><td>221151</td><td>01568595189</td></tr>
+      <tr><td>7</td><td>‡gvt wmgyj nvmvb</td><td>221404</td><td>01756253493</td></tr>
+      <tr><td>8</td><td>‡gvt mvBdzjøvn mvBd</td><td>148049</td><td>01740909785</td></tr>
+      <tr><td>9</td><td>weRq P›`ª †`</td><td>221473</td><td>01759874100</td></tr>
+      <tr><td>10</td><td>mvwR`yj Bmjvg mvwKe</td><td>221440</td><td>01614598706</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>
